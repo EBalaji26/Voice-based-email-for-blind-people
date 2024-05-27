@@ -1,0 +1,1 @@
+This project is a Python-based voice-controlled email application for visually challenged people that uses speech-to-text voice responses, allowing anyone to handle their email accounts with their voice alone.
